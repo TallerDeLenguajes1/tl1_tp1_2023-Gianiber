@@ -35,6 +35,6 @@ void invertir(int a,int b)
     aux = a;
     a = b;
     b = aux;
-    printf("El primer numero ahora es: %d", b);
-    printf("El segundo numero: %d", a);
+    printf("El primer numero ahora es: %d\n", a);
+    printf("El segundo numero: %d\n", b);
 }

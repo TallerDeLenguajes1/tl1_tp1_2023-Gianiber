@@ -9,9 +9,10 @@ int main()
     printf("Almacenada del puntero: %d \n", punt);
     printf("Direccion de la variable: %d\n", &prueba);
     printf("Direccion del puntero: %d\n", &punt);
-    printf("Tamaño de la memoria: %d\n", sizeof(prueba));
+    printf("Tamanio de la memoria: %d\n", sizeof(prueba));
     printf("Contenido del puntero: %d\n", *punt);
     printf("Almacenada del puntero: %d \n", punt);
     printf("Direccion de la variable: %d\n", &prueba);
     printf("Direccion del puntero: %d\n", &punt);
+    return 0;
 }

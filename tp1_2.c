@@ -15,6 +15,8 @@ int main()
     printf("Ingrese dos numeros:");
     scanf("%d %d",&num1,&num2);
     invertir(num1,num2);
+    printf("Hola mundo");
+    return 0;
 }
 
 void cuadrado(int *num)

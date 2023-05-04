@@ -14,7 +14,7 @@ int main()
     variable(num);
     printf("Ingrese dos numeros:");
     scanf("%d %d",&num1,&num2);
-    invertir(num1,num2);
+    invertir(num2,num1);
     printf("Hola mundo");
     return 0;
 }
